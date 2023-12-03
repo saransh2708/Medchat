@@ -11,6 +11,7 @@ The following algorithms have been explored in code:
 3. Random Forest
 4. Gradient Boosting
 5. Artificial Neural Networks
+6. K-Nearest Neighbor
 
 # Dataset
 
